@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "nombre": "Los Lobos",
+        "fechaCreacion": "Jan 15, 1973, 02:30:00 PM"
+    },
+    {
+        "id": 2,
+        "nombre": "Marc Anthony",
+        "fechaCreacion": "Sep 16, 1968, 03:15:00 PM"
+    },
+    {
+        "id": 3,
+        "nombre": "Luis Fonsi",
+        "fechaCreacion": "Apr 15, 1978, 01:45:00 PM"
+    }
+]

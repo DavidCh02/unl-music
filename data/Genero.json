@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "nombre": "Rock Latino",
+        "descripcion": "Fusión de rock con ritmos latinos tradicionales"
+    },
+    {
+        "id": 2,
+        "nombre": "Salsa",
+        "descripcion": "Género musical bailable de origen caribeño"
+    },
+    {
+        "id": 3,
+        "nombre": "Reggaeton",
+        "descripcion": "Género urbano latino con influencias del reggae y hip hop"
+    }
+]
